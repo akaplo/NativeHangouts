@@ -272,6 +272,7 @@
 				9F1149AD1BD0981300811219 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
