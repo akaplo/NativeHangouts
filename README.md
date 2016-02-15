@@ -7,7 +7,7 @@ This repository is not particularly 'maintained;' it exists because I got tired 
 
 
 ## To Contribute:
-  * You must have a Mac with Xcode installed
+  You must have a Mac with Xcode installed
   1. Clone or fork this repository.
   2. Open Hangouts.xcodeproj from the root directory of the repository in Xcode.
   3. Make your edits!
