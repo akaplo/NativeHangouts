@@ -7,9 +7,9 @@ This repository is not particularly 'maintained;' it exists because I got tired 
 
 
 ## To Contribute:
-  - * You must have a Mac with Xcode installed
+  * You must have a Mac with Xcode installed
   1. Clone or fork this repository.
-  2. Open NativeHangouts.xcodeproj from the root directory of the repository in Xcode.
+  2. Open Hangouts.xcodeproj from the root directory of the repository in Xcode.
   3. Make your edits!
   
 ## To Use:
@@ -21,7 +21,7 @@ This repository is not particularly 'maintained;' it exists because I got tired 
   5. Move it to /Applications.
   6. Use it!
   
-## Things it doesn't do:
+## Things it doesn't (but could!) do:
   1. Remember how big you make it (always opens as a small box)
   2. Allow zooming in on the content
   3. Open a filepicker for uploading images/etc to your conversations
