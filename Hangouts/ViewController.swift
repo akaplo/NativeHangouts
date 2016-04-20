@@ -23,7 +23,7 @@ class ViewController: NSViewController {
 
         // Do any additional setup after loading the view.
         
-        let url : String = "http://hangouts.google.com"
+        let url : String = "https://hangouts.google.com"
         self.webView.mainFrame.loadRequest(NSURLRequest(URL: NSURL(string: url)!))
 
     }
