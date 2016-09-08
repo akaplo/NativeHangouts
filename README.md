@@ -13,6 +13,13 @@ This repository is not particularly 'maintained;' it exists because I got tired 
   3. Make your edits!
   
 ## To Use:
+  
+Easy Method:
+  1. Download the zip file containing the app for the [current release](https://github.com/akaplo/NativeHangouts/releases).
+  2. Extract the .app, move it to /Applications.
+  3. Use it!
+
+DIY method (If the easy method won't work)
   1. Follow steps 1-2 above.
   2. In Xcode's (using 7.2 for this tutorial) Product menu option:
     -> Product -> Build For -> Running
