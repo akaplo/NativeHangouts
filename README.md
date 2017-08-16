@@ -38,4 +38,4 @@ DIY method (If the easy method won't work)
   2. Looks kinda pretty (thanks to Google's page design, not me)
   3. Stays out of your way when you don't want it
   4. Allows a sound notification through when it's open and you get a message
-  5. Voice and video calls (you must've first done one in Safari first and downloaded the required Hangouts plugin there for the app to perform this function)
+  5. Voice and video calls (you must've first done one in Safari and downloaded the required Hangouts plugin there for the app to perform this function)
