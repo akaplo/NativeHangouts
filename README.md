@@ -32,11 +32,10 @@ DIY method (If the easy method won't work)
   1. Remember how big you make it (always opens as a small box)
   2. Allow zooming in on the content
   3. Open a filepicker for uploading images/etc to your conversations
-  4. Voice calls
-  5. Video calls
 
 ## Things it DOES do:
   1. Keeps you signed in
   2. Looks kinda pretty (thanks to Google's page design, not me)
   3. Stays out of your way when you don't want it
   4. Allows a sound notification through when it's open and you get a message
+  5. Voice and video calls (you must've first done one in Safari first and downloaded the required Hangouts plugin there for the app to perform this function)
